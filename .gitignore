@@ -15,8 +15,6 @@
 *.iws
 *.iml
 *.ipr
-.logs
-.doc
 
 ### NetBeans ###
 /nbproject/private/
@@ -25,3 +23,6 @@
 /nbdist/
 /.nb-gradle/
 /build/
+
+/logs
+
